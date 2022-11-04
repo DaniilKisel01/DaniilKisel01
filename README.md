@@ -2,3 +2,7 @@
 
 
 ## I'm beginner QA Manual specialist, who is ready to be a part of your company
+
+
+## Tools 
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=MySQL)
